@@ -4,22 +4,20 @@ body{
     font-family: 'Noto Sans Cypriot', sans-serif;
     background-color: #0c0f16;
 }
+
 header{
     display: flex;
-    justify-content: space-around;
     align-items: baseline;
+    justify-content: space-around;
 }
 
-a{
-    text-decoration: none;
-    color: #e4e6eb;
-}
 
 #andreas{
     font-size: 2em;
     font-weight: 600;
     color: #e4e6eb;
 }
+
 
 #introText{
     margin-top: 500px;
