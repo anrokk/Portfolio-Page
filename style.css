@@ -50,17 +50,3 @@ header{
     text-align: center;
     color: #dde7f6;
 }
-
-#aboutMeParagraph{
-    margin: auto;
-    border: 2px solid #8fade0;
-    border-radius: 12px;
-    background-color: #8fade0;
-    max-width: 30%;
-    text-align: center;
-    color: #0f1013;
-    line-height: 1.5em;
-    font-weight: 600;
-    font-size: 1.2em;
-    padding: 40px 25px;
-}
