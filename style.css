@@ -11,6 +11,11 @@ header{
     align-items: center;
     justify-content: space-around;
     background-color: #0f1013;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    border-bottom: 2px solid #8fade0;
 }
 
 #andreas{
@@ -29,12 +34,17 @@ header{
     transition: color 0.3s;
 }
 
+#andreas, .nav-item{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
 .nav-item:hover{
     color: #1a73ef;
 }
 
 #introText{
-    margin-top: 20%;
+    margin-top: 500px;
     font-size: 3.5em;
     font-weight: 600;
     text-align: center;
